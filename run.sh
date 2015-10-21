@@ -1,6 +1,6 @@
 #!/bin/sh
 
-export LC_ALL=en_US.utf8
+export LC_ALL=en_US.UTF-8
 
 service tomcat7 start
 
