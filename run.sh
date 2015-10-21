@@ -1,4 +1,7 @@
 #!/bin/sh
+
+export LC_ALL=en_US.utf8
+
 service tomcat7 start
 
 # link mounted source directory to opengrok
